@@ -17,12 +17,12 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  produce_storage = [["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
+  produce_storage = [["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]]
 end
 
 def sorted_matrix
-  produce_storage = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"]
+  produce_storage = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],
   ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
 end
 
